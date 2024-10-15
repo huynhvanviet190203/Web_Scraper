@@ -75,6 +75,4 @@ Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với tôi qua 
 ---
 
 Cảm ơn bạn đã xem dự án Web Scraper này!
-```
 
-Bạn có thể thay thế thông tin liên hệ và bất kỳ phần nào khác cho phù hợp với dự án của bạn. Chúc bạn thành công với dự án Web Scraper của mình!
